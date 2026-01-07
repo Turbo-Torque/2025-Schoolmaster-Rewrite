@@ -71,7 +71,7 @@ inline constexpr double kBackRightOffset = -2.581689666011534 + M_PI;
 inline constexpr double kRobotLength = .5525;
 inline constexpr double kRobotWidth = .5525;
 
-inline constexpr units::meters_per_second_t kMaxLinearSpeed = 4.5_mps;
+inline constexpr units::meters_per_second_t kMaxLinearSpeed = 2.5_mps;
 inline constexpr units::radians_per_second_t kMaxAngularSpeed = 570_deg_per_s;
 
 inline constexpr units::meters_per_second_t kProcessorMaxLinearSpeed = 2.5_mps;
